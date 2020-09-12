@@ -1,15 +1,7 @@
 # Requierement
 
-Unity or just launch the ".exe" in "zBuildedGame" to try the game
+Unity
 
-# Project
+# Informations
 
-Implemented :
-- Waves
-- Gold per waves
-- Turrets Buy
-- Turrets Upgrades
-- Turrets Sell
-- Functional turrets
-- Main menu
-- Pause menu
+Just a simple inventory system
